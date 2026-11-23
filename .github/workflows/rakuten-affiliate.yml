@@ -1,0 +1,35 @@
+name: Rakuten affiliate product links
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '15 0 * * *' # 09:15 JST
+permissions:
+  contents: write
+  pull-requests: write
+jobs:
+  update-links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Fetch official Rakuten affiliate links
+        env:
+          RAKUTEN_APPLICATION_ID: ${{ secrets.RAKUTEN_APPLICATION_ID }}
+          RAKUTEN_ACCESS_KEY: ${{ secrets.RAKUTEN_ACCESS_KEY }}
+          RAKUTEN_AFFILIATE_ID: ${{ secrets.RAKUTEN_AFFILIATE_ID }}
+        run: python scripts/rakuten_affiliate.py
+      - name: Open or update review PR
+        uses: peter-evans/create-pull-request@v7
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          add-paths: mono-site/src/content/articles/rakuten-product-picks.md
+          branch: automation/rakuten-affiliate-links
+          delete-branch: true
+          title: '【承認待ち】楽天APIの商品リンクを更新'
+          commit-message: 'Refresh Rakuten affiliate links from official API'
+          body: |
+            楽天市場の公式APIから商品候補・価格・楽天アフィリエイトURLを取得しました。
+            API取得時点の情報です。価格・送料・型番・販売店・リンクを確認してからマージしてください。
+            このPRは自動公開されません。
