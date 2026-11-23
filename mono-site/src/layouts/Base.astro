@@ -1,0 +1,4 @@
+---
+const { title = 'MONO SELECT', description = '暮らしに合うモノを、賢く選ぶ。' } = Astro.props;
+---
+<!doctype html><html lang="ja"><head><meta charset="UTF-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/><meta name="description" content={description}/><title>{title} | MONO SELECT</title><link rel="stylesheet" href="/style.css"/></head><body><header><div class="wrap nav"><a class="brand" href="/">MONO<span>SELECT</span></a><nav><a href="/">記事一覧</a><a href="/about">運営情報</a><a href="/privacy">プライバシー</a></nav></div></header><main><slot /></main><footer><div class="wrap">© {new Date().getFullYear()} MONO SELECT · 当サイトはアフィリエイト広告を利用する場合があります。</div></footer></body></html>

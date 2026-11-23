@@ -1,0 +1,6 @@
+---
+import Base from '../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+const posts = (await getCollection('articles', ({data})=>!data.draft)).sort((a,b)=>b.data.pubDate.valueOf()-a.data.pubDate.valueOf());
+---
+<Base title="商品比較・選び方ガイド"><section class="hero"><div class="wrap"><p class="eyebrow">SMART BUYING GUIDE</p><h1>暮らしに合うモノを、<br/>賢く選ぶ。</h1><p>省スペース家電、PC周辺機器、暮らしの道具をわかりやすく比較。</p></div></section><section class="wrap content"><h2>新着の比較記事</h2><div class="grid">{posts.map(post=><a class="card" href={`/articles/${post.id}/`}><div class="thumb">{post.data.category}</div><div class="cardbody"><small>{post.data.category} · {post.data.pubDate.toLocaleDateString('ja-JP')}</small><h3>{post.data.title}</h3><p>{post.data.description}</p><span class="read">記事を読む →</span></div></a>)}</div></section></Base>
