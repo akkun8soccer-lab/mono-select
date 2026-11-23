@@ -24,3 +24,8 @@ content:
       - name: body
         label: 記事本文
         type: rich-text
+      - name: category
+        label: カテゴリー
+        type: string
+        required: true
+
