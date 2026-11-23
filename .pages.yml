@@ -1,0 +1,26 @@
+
+media:
+  input: mono-site/public/images
+  output: /images
+
+content:
+  - name: articles
+    label: 記事管理
+    type: collection
+    path: mono-site/src/content/articles
+    format: yaml-frontmatter
+    extension: md
+    fields:
+      - name: title
+        label: 記事タイトル
+        type: string
+        required: true
+      - name: description
+        label: 記事の説明
+        type: text
+      - name: pubDate
+        label: 公開日
+        type: date
+      - name: body
+        label: 記事本文
+        type: rich-text
