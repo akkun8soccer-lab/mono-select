@@ -48,6 +48,27 @@ category: 家電
 
 分岐水栓の工事を避けたいならタンク式、毎回の給水を減らしたいなら分岐水栓式が候補です。最終的にはキッチンの寸法と水栓の適合状況で判断しましょう。
 
+
+## 商品例：サンコー「ラクア」STTDWADW
+
+**広告・PR：** 以下はA8.net経由の楽天アフィリエイト広告です。リンク先で購入などの成果条件が満たされると、当サイトに報酬が発生する場合があります。
+
+タンク式の候補として、サンコー公式楽天市場店の「水道いらずのタンク式食器洗い乾燥機 ラクア（STTDWADW）」を掲載します。以下の価格・レビュー件数は**広告コード生成時点（2026年11月23日19:02）の表示**であり、現在の価格や在庫を保証するものではありません。設置寸法・付属品・販売条件はリンク先とメーカー公式情報をご確認ください。
+
+<table cellpadding="0" cellspacing="0" border="0" style="border:1px solid #ccc; width:300px;"><tbody><tr style="border-style:none;"><td style="vertical-align:top; border-style:none; padding:10px; width:44px;"><a href="https://rpx.a8.net/svt/ejp?a8mat=4BGS18+1ZG1DE+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2Fg00q2n44.2bo11ee0.g00q2n44.2bo12777%2Fa26112386731_4BGS18_1ZG1DE_2HOM_BWGDT%3Fpc%3Dhttps%253A%252F%252Fitem.rakuten.co.jp%252Fthanko%252F000000003491%252F%26m%3Dhttp%253A%252F%252Fm.rakuten.co.jp%252Fthanko%252Fi%252F10004387%252F%26rafcid%3Dwsc_i_is_a9f492a7-8ef9-40e2-ab89-4bc43a1ee283" rel="nofollow sponsored"><img style="max-width: initial;" border="0" alt="サンコー ラクア STTDWADWの商品画像" src="https://thumbnail.image.rakuten.co.jp/@0_mall/thanko/cabinet/other22/sttdwadw-rakuten.jpg?_ex=64x64"></a></td><td style="font-size:12px; vertical-align:middle; border-style:none; padding:10px;"><p style="padding:0; margin:0;"><a href="https://rpx.a8.net/svt/ejp?a8mat=4BGS18+1ZG1DE+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2Fg00q2n44.2bo11ee0.g00q2n44.2bo12777%2Fa26112386731_4BGS18_1ZG1DE_2HOM_BWGDT%3Fpc%3Dhttps%253A%252F%252Fitem.rakuten.co.jp%252Fthanko%252F000000003491%252F%26m%3Dhttp%253A%252F%252Fm.rakuten.co.jp%252Fthanko%252Fi%252F10004387%252F%26rafcid%3Dwsc_i_is_a9f492a7-8ef9-40e2-ab89-4bc43a1ee283" rel="nofollow sponsored">[公式] 水道いらずのタンク式食器洗い乾燥機「ラクア」 STTDWADW（楽天市場）</a></p><p style="color:#666; margin-top:5px; line-height:1.5;">広告作成時の表示価格：<span style="font-size:14px; color:#C00; font-weight:bold;">38,800円〜</span><br><span style="font-size:10px; font-weight:normal;">（2026/11/23 19:02時点）</span><br><span style="font-weight:bold;">広告作成時の感想：1,415件</span></p></td></tr></tbody></table>
+<img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4BGS18+1ZG1DE+2HOM+BWGDT" alt="">
+
+
+### 商品例：シロカ SS-MA251
+
+**広告・PR：** 以下はA8.net経由の楽天アフィリエイト広告です。タンク式の選択肢として、シロカの食器洗い乾燥機「SS-MA251」を紹介します。広告の記載ではオートオープン機能が案内されています。最新の仕様・設置条件はメーカー公式情報と販売ページをご確認ください。
+
+<a href="https://rpx.a8.net/svt/ejp?a8mat=4BGS18+1ZG1DE+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2Fg00pz5q4.2bo11d10.g00pz5q4.2bo125d2%2Fa26112386731_4BGS18_1ZG1DE_2HOM_BWGDT%3Fpc%3Dhttps%253A%252F%252Fitem.rakuten.co.jp%252Fimportshopaqua%252F310000111%252F%26m%3Dhttp%253A%252F%252Fm.rakuten.co.jp%252Fimportshopaqua%252Fi%252F10011117%252F%26rafcid%3Dwsc_i_is_a9f492a7-8ef9-40e2-ab89-4bc43a1ee283" rel="nofollow sponsored"><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/importshopaqua/cabinet/zoom_b/omk1/01/310000111.jpg?_ex=64x64" alt="シロカ SS-MA251 商品画像" width="64" height="64"></a>
+
+<a href="https://rpx.a8.net/svt/ejp?a8mat=4BGS18+1ZG1DE+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2Fg00pz5q4.2bo11d10.g00pz5q4.2bo125d2%2Fa26112386731_4BGS18_1ZG1DE_2HOM_BWGDT%3Fpc%3Dhttps%253A%252F%252Fitem.rakuten.co.jp%252Fimportshopaqua%252F310000111%252F%26m%3Dhttp%253A%252F%252Fm.rakuten.co.jp%252Fimportshopaqua%252Fi%252F10011117%252F%26rafcid%3Dwsc_i_is_a9f492a7-8ef9-40e2-ab89-4bc43a1ee283" rel="nofollow sponsored">シロカ 食器洗い乾燥機 SS-MA251を楽天市場で見る（広告）</a>
+
+広告作成時の表示価格：**59,800円**／感想：**11件**（2026年11月23日19:04時点）。現在の価格・在庫・特典を保証するものではありません。
+
 ## まとめ
 
 最初に設置条件、次に容量、最後に給水の手間と総費用を比べると、自分に合う食洗機を選びやすくなります。
